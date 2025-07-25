@@ -28,7 +28,7 @@ I'm **Ojaswi Joshi**, a Computer Science undergrad at **IIIT Nagpur**, passionat
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,php,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,linux,postman" />
 </p>
 
 ---
@@ -58,6 +58,22 @@ pocket-doc-red.vercel.app
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OjaswiJoshi13&show_icons=true&theme=tokyonight" alt="Ojaswi's GitHub Stats" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OjaswiJoshi13&theme=tokyonight&no-frame=true&column=7&margin-w=5" />
+</p>
+
+---
+
 ### 📫 Get in Touch
 
 - ✉️ Email: ojaswijoshi581@gmail.com  
@@ -68,15 +84,17 @@ pocket-doc-red.vercel.app
 
 ### 🌱 On My Radar
 
-- Building cross‑platform apps with Flutter & Firebase  
-- Exploration of smart contracts & NFTs in Web3  
-- Deep diving into ethical hacking & bug bounty programs  
+- Advancing my skills in full-stack web development with React, Next.js & backend integration
+- Sharpening DSA through LeetCode, Codeforces, and CodeChef challenges
+- Working on impactful projects with AI and real-time user interactions
 
 ---
 
-### 💬 Quote That Inspires Me
+## ✍️ Random Dev Quote
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Chris Wren
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
 ---
 
