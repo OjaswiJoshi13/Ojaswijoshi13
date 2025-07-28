@@ -28,7 +28,7 @@ I'm **Ojaswi Joshi**, a Computer Science undergrad at **IIIT Nagpur**, passionat
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,php,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,php,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,linux,postman,figma" />
 </p>
 
 ---
