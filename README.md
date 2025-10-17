@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/OjaswiJoshi13?label=Followers&style=social" alt="GitHub followers">
   <img src="https://komarev.com/ghpvc/?username=OjaswiJoshi13&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/CodeChef-⭐%20%20CP-orange" alt="CP Badge"/>
+  <img src="https://img.shields.io/badge/CodeChef-⭐⭐%20%20CP-orange" alt="CP Badge"/>
   <img src="https://img.shields.io/badge/AI-Explorer-blueviolet" alt="AI Badge"/>
   <img src="https://img.shields.io/badge/Video Games-Enthusiast-darkred" alt="Gaming Badge"/>
 </p>
