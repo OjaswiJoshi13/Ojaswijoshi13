@@ -43,9 +43,9 @@ I'm **Ojaswi Joshi**, a Computer Science undergrad at **IIIT Nagpur**, passionat
 
 ### 🧑‍💻 Competitive Platforms
 
-- CodeChef: [@coder_man0001](https://www.codechef.com/users/hatch_poem_05) — active in contests, practicing DSA  
-- Codeforces: [ojaswijoshi581](https://codeforces.com/profile/ojaswijoshi581) — regular problem solver & contest participant  
-- LeetCode: [ojaswi321](https://leetcode.com/u/ojaswi321) — strong focus on algorithmic challenges and interview prep  
+- CodeChef: [@hatch_poem_05](https://www.codechef.com/users/hatch_poem_05) — active in contests, practicing DSA  
+- Codeforces: [@ojaswijoshi581](https://codeforces.com/profile/ojaswijoshi581) — regular problem solver & contest participant  
+- LeetCode: [@ojaswi321](https://leetcode.com/u/ojaswi321) — strong focus on algorithmic challenges and interview prep  
 
 ---
 
